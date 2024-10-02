@@ -11,7 +11,7 @@ const Login = ({ setIsAuthenticated }) => {
 
     const handleLogin = (e) => {
         e.preventDefault();
-        if (username === 'admin' && password === 'password') {
+        if (username === 'admin' && password === 'admin') {
             localStorage.setItem('isAuthenticated', 'true'); // Store authentication status
             setIsAuthenticated(true); // Update the state
             navigate('/dashboard');
