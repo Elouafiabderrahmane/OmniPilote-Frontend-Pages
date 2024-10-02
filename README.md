@@ -46,3 +46,7 @@ To test the demo, use the following credentials:
    cd OmniPilote-Frontend-Pages
    npm install
    npm start
+## Screenshots
+![image](https://github.com/user-attachments/assets/9bb55aaf-8db0-4e46-b75b-87fc49dcc360)
+![image](https://github.com/user-attachments/assets/1f51a074-1a71-4463-b124-91ebdfee0406)
+
